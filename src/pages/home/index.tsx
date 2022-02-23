@@ -4,7 +4,7 @@ import { Header } from "../../components/Header";
 import { BiHome, BiBuildings } from "react-icons/bi";
 import { RiCompasses2Fill } from "react-icons/ri";
 import { FaRulerCombined } from "react-icons/fa";
-import backgroundImage from "../../assets/images/wave-bg.jpg";
+import backgroundImage from "../../assets/images/bg-ondinha.jpg";
 import styles from "./style.module.css";
 
 export function HomePage() {
