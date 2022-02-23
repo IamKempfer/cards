@@ -23,10 +23,21 @@
   align-items: center;
   font-size: 2rem;
   text-decoration: none;
-  color: black;
   transition: color 0.3s ease;
 }
 
 .header nav a:hover {
-  color: blue;
+  transform: scale(1.11);
+}
+
+.facebook {
+  color: #3b579b;
+}
+
+.twitter {
+  color: #1da0f1;
+}
+
+.instagram {
+  color: #c536a4;
 }
